@@ -1,2 +1,4 @@
 print("Hello World")
-print("Hi")
+userInput = input()
+print(userInput)
+print("Hello")
